@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Surat, IN</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Surat__IN/*http://weather.yahoo.com/forecast/INXX0157_f.html</link>
+<description>Yahoo! Weather for Surat, IN</description>
+<language>en-us</language>
+<lastBuildDate>Mon, 02 Jun 2014 5:30 pm IST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Surat" region=""   country="IN"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="93"   direction="180"   speed="5" />
+<yweather:atmosphere humidity="66"  visibility="6.21"  pressure=""  rising="0" />
+<yweather:astronomy sunrise="5:57 am"   sunset="7:17 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Surat, IN at 5:30 pm IST</title>
+<geo:lat>21.2</geo:lat>
+<geo:long>72.83</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Surat__IN/*http://weather.yahoo.com/forecast/INXX0157_f.html</link>
+<pubDate>Mon, 02 Jun 2014 5:30 pm IST</pubDate>
+<yweather:condition  text="Sunny"  code="32"  temp="93"  date="Mon, 02 Jun 2014 5:30 pm IST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/32.gif"/><br />
+<b>Current Conditions:</b><br />
+Sunny, 93 F<BR />
+<BR /><b>Forecast:</b><BR />
+Mon - Clear. High: 98 Low: 83<br />
+Tue - Sunny. High: 100 Low: 82<br />
+Wed - Sunny. High: 96 Low: 82<br />
+Thu - Partly Cloudy. High: 96 Low: 83<br />
+Fri - Sunny. High: 96 Low: 82<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Surat__IN/*http://weather.yahoo.com/forecast/INXX0157_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Mon" date="2 Jun 2014" low="83" high="98" text="Clear" code="31" />
+<yweather:forecast day="Tue" date="3 Jun 2014" low="82" high="100" text="Sunny" code="32" />
+<yweather:forecast day="Wed" date="4 Jun 2014" low="82" high="96" text="Sunny" code="32" />
+<yweather:forecast day="Thu" date="5 Jun 2014" low="83" high="96" text="Partly Cloudy" code="30" />
+<yweather:forecast day="Fri" date="6 Jun 2014" low="82" high="96" text="Sunny" code="32" />
+<guid isPermaLink="false">INXX0157_2014_06_06_7_00_IST</guid>
+</item>
+</channel>
+</rss>
+
+<!-- api89.weather.sg3.yahoo.com Mon Jun  2 15:09:49 PST 2014 -->

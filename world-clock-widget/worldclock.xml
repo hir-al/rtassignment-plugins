@@ -1,0 +1,633 @@
+<?xml version='1.0' standalone='yes'?>
+<worldclocks>
+  <worldclock>
+    <display>International Date Line West</display>
+    <offset>-12</offset>
+    <offsetdisplay>-12:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Midway Island Samoa</display>
+    <offset>-11</offset>
+    <offsetdisplay>-11:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Hawaii</display>
+    <offset>-10</offset>
+    <offsetdisplay>-10:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Alaska</display>
+    <offset>-9</offset>
+    <offsetdisplay>-09:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Pacific Time (US and Canada), Tijuana</display>
+    <offset>-8</offset>
+    <offsetdisplay>-08:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Arizona</display>
+    <offset>-7</offset>
+    <offsetdisplay>-07:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Chihuahua, La Paz, Mazatlan</display>
+    <offset>-7</offset>
+    <offsetdisplay>-07:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Apr 3, 2011 @ 2am -->
+    <dststart>2,0,0,4,3,2011</dststart>
+    <!-- Oct 30, 2011 @ 2am -->
+    <dstend>2,0,0,10,30,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Mountain Time (US and Canada)</display>
+    <offset>-7</offset>
+    <offsetdisplay>-07:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Central America</display>
+    <offset>-6</offset>
+    <offsetdisplay>-06:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Central Time (US and Canada)</display>
+    <offset>-6</offset>
+    <offsetdisplay>-06:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Guadalajara, Mexico City, Monterrey</display>
+    <offset>-6</offset>
+    <offsetdisplay>-06:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Apr 3, 2011 @ 2am -->
+    <dststart>2,0,0,4,3,2011</dststart>
+    <!-- Oct 30, 2011 @ 2am -->
+    <dstend>2,0,0,10,30,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Saskatchewan</display>
+    <offset>-6</offset>
+    <offsetdisplay>-06:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Bogota, Lime, Quito</display>
+    <offset>-5</offset>
+    <offsetdisplay>-05:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Eastern Time (US and Canada)</display>
+    <offset>-5</offset>
+    <offsetdisplay>-05:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Indiana (East)</display>
+    <offset>-5</offset>
+    <offsetdisplay>-05:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Caracas</display>
+    <offset>-4.5</offset>
+    <offsetdisplay>-04:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Atlantic Time (Canada)</display>
+    <offset>-4</offset>
+    <offsetdisplay>-04:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 13, 2011 @ 2am -->
+    <dststart>2,0,0,3,13,2011</dststart>
+    <!-- Nov 6, 2011 @ 2am -->
+    <dstend>2,0,0,11,6,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>La Paz</display>
+    <offset>-4</offset>
+    <offsetdisplay>-04:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Santiago</display>
+    <offset>-4</offset>
+    <offsetdisplay>-04:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Newfoundland</display>
+    <offset>-3.5</offset>
+    <offsetdisplay>-03:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Brasilia</display>
+    <offset>-3</offset>
+    <offsetdisplay>-03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Buenos Aires, Georgetown</display>
+    <offset>-3</offset>
+    <offsetdisplay>-03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Greenland</display>
+    <offset>-3</offset>
+    <offsetdisplay>-03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Mid-Atlantic</display>
+    <offset>-2</offset>
+    <offsetdisplay>-02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Azores</display>
+    <offset>-1</offset>
+    <offsetdisplay>-01:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Cape Verde Is.</display>
+    <offset>-1</offset>
+    <offsetdisplay>-01:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Casablanca, Monrovia</display>
+    <offset>0</offset>
+    <offsetdisplay></offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London</display>
+    <offset>0</offset>
+    <offsetdisplay></offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 27, 2011 @ 1am -->
+    <dststart>1,0,0,3,27,2011</dststart>
+    <!-- Oct 30, 2011 @ 2am -->
+    <dstend>2,0,0,10,30,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna</display>
+    <offset>1</offset>
+    <offsetdisplay>+01:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Belgrade, Bratislava, Budapest, Ljubljana, Prague</display>
+    <offset>1</offset>
+    <offsetdisplay>+01:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Brussels, Copenhagen, Madrid, Paris</display>
+    <offset>1</offset>
+    <offsetdisplay>+01:00</offsetdisplay>
+    <dst>true</dst>
+    <!-- Mar 27, 2011 @ 2am -->
+    <dststart>2,0,0,3,27,2011</dststart>
+    <!-- Oct 30, 2011 @ 3am -->
+    <dstend>3,0,0,10,30,2011</dstend>
+  </worldclock>
+  <worldclock>
+    <display>Sarajevo, Skopje, Warsaw, Zagreb</display>
+    <offset>1</offset>
+    <offsetdisplay>+01:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>West Central Africa</display>
+    <offset>1</offset>
+    <offsetdisplay>+01:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Athens, Istanbul, Minsk</display>
+    <offset>2</offset>
+    <offsetdisplay>+02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Bucharest</display>
+    <offset>2</offset>
+    <offsetdisplay>+02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Cairo</display>
+    <offset>2</offset>
+    <offsetdisplay>+02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Harare, Pretoria</display>
+    <offset>2</offset>
+    <offsetdisplay>+02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius</display>
+    <offset>2</offset>
+    <offsetdisplay>+02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Jerusalem</display>
+    <offset>2</offset>
+    <offsetdisplay>+02:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Baghdad</display>
+    <offset>3</offset>
+    <offsetdisplay>+03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Kuwait, Riyadh</display>
+    <offset>3</offset>
+    <offsetdisplay>+03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Moscow, St. Petersburg, Volgograd</display>
+    <offset>3</offset>
+    <offsetdisplay>+03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Nairobi</display>
+    <offset>3</offset>
+    <offsetdisplay>+03:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Tehran</display>
+    <offset>3.5</offset>
+    <offsetdisplay>+03:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Abu Dhabi, Muscat</display>
+    <offset>4</offset>
+    <offsetdisplay>+04:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Baku, Tbilisi, Yerevan</display>
+    <offset>4</offset>
+    <offsetdisplay>+04:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Kabul</display>
+    <offset>4.5</offset>
+    <offsetdisplay>+04:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Ekaterinburg</display>
+    <offset>5</offset>
+    <offsetdisplay>+05:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Islamabad, Karachi, Tashkent</display>
+    <offset>5</offset>
+    <offsetdisplay>+05:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Chennai, Kolkata, Mumbai, New Delhi</display>
+    <offset>5.5</offset>
+    <offsetdisplay>+05:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Kathmandu</display>
+    <offset>5.75</offset>
+    <offsetdisplay>+05:45</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Almaty, Novosibirsk</display>
+    <offset>6</offset>
+    <offsetdisplay>+06:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Astana, Dhaka</display>
+    <offset>6</offset>
+    <offsetdisplay>+06:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Sri Jayawardenepura</display>
+    <offset>6</offset>
+    <offsetdisplay>+06:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Rangoon</display>
+    <offset>6.5</offset>
+    <offsetdisplay>+06:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Bangkok, Hanoi, Jakarta</display>
+    <offset>7</offset>
+    <offsetdisplay>+07:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Krasnoyarsk</display>
+    <offset>7</offset>
+    <offsetdisplay>+07:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Beijing, Chongging, Hong Kong, Urumgi</display>
+    <offset>8</offset>
+    <offsetdisplay>+08:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Irkutsk, Ulaan Bataar</display>
+    <offset>8</offset>
+    <offsetdisplay>+08:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Kuala Lumpur, Singapore</display>
+    <offset>8</offset>
+    <offsetdisplay>+08:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Perth</display>
+    <offset>8</offset>
+    <offsetdisplay>+08:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Taipei</display>
+    <offset>8</offset>
+    <offsetdisplay>+08:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Osaka, Sapporo, Tokyo</display>
+    <offset>9</offset>
+    <offsetdisplay>+09:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Seoul</display>
+    <offset>9</offset>
+    <offsetdisplay>+09:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Yakutsk</display>
+    <offset>9</offset>
+    <offsetdisplay>+09:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Adelaide</display>
+    <offset>9.5</offset>
+    <offsetdisplay>+09:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Darwin</display>
+    <offset>9.5</offset>
+    <offsetdisplay>+09:30</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Brisbane</display>
+    <offset>10</offset>
+    <offsetdisplay>+10:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Canberra, Melbourne, Sydney</display>
+    <offset>10</offset>
+    <offsetdisplay>+10:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Guam, Port Moresby</display>
+    <offset>10</offset>
+    <offsetdisplay>+10:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Hobart</display>
+    <offset>10</offset>
+    <offsetdisplay>+10:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Vladivostok</display>
+    <offset>10</offset>
+    <offsetdisplay>+10:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Magadan, Solomon Is., New Caledonia</display>
+    <offset>11</offset>
+    <offsetdisplay>+11:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Auckland, Wellington</display>
+    <offset>12</offset>
+    <offsetdisplay>+12:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Figi, Kamchatka, Marshall Is.</display>
+    <offset>12</offset>
+    <offsetdisplay>+12:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+  <worldclock>
+    <display>Nuku'alofa</display>
+    <offset>13</offset>
+    <offsetdisplay>+13:00</offsetdisplay>
+    <dst>false</dst>
+    <dststart></dststart>
+    <dstend></dstend>
+  </worldclock>
+</worldclocks>

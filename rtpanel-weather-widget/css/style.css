@@ -1,0 +1,39 @@
+/* Weather style */
+.weather-container{
+	position:relative;
+	max-width: 100%;
+	padding:25px 10px;
+	height:170px;
+	line-height:1;
+	border:1px solid #d5d5d5;
+}
+
+.weather-container .day-container{
+	width:33.33%; 
+	float:left;
+	text-align: center;
+}
+
+.weather-container .day-container .day{
+	font-size:14px;
+	font-family: Verdana, Arial,Georgia,Serif;
+	text-transform: uppercase;
+	margin-bottom:10px;
+	display:inline-block;	
+}
+.weather-container .day-container .day.current{
+	font-size:15px;
+}
+
+.weather-container .day-container .date{
+	font-size:18px;
+}
+
+.weather-container .day-container .icon{
+	margin:5px 0;
+}
+
+.weather-container .day-container .text{
+	margin-bottom:7px;
+	display: inline-block;
+}
