@@ -7,7 +7,6 @@ if($rtp_slideshow_misc_user_level=="")
 $rtp_slideshow_misc_user_level = "manage_options";
 }
 $url = $_POST['url'];
-// $url=substr($url , 0, -1);
 if (current_user_can($rtp_slideshow_misc_user_level)) 
 {
 	$rtp_slideshow_imageupload_complete_data=unserialize(get_option('rtp_slideshow_imageupload_complete_data'));
