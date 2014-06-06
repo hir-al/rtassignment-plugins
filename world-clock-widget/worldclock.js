@@ -120,7 +120,7 @@ function getFormattedDateTime(datetime, dateformat, timeformat) {
 	datetime["sec"],
 	0
   );
-  return "<span class='timer-date'>"+newdate.toString(dateformat)+"</span><br/><span class='timer-time'>"+newdate.toString(timeformat)+((datetime["dst"]!=0)?" DST":"</span>");
+  return "<span class='timer-date'>"+newdate.toString(dateformat)+"</span><span class='timer-time'>"+newdate.toString(timeformat)+((datetime["dst"]!=0)?" DST":"</span>");
 }
 
 function worldClock(zone, dst, dateformat, timeformat) {
